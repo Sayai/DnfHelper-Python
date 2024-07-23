@@ -10,7 +10,6 @@
 6. 功能热键 F1.全屏打怪 End.自动刷图
 ```
 
-### :red_circle: 交流群: star后带上你的github账号加群,否则一律拒绝
 
 ## Stargazers over time
 
