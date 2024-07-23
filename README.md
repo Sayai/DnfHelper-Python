@@ -12,10 +12,6 @@
 
 ### :red_circle: 交流群: star后带上你的github账号加群,否则一律拒绝
 
-#### 企鹅群
-
-<img src="static/qq.png" alt="alt text" width="276" height="319"> 
-
 ## Stargazers over time
 
 [![Stargazers over time](https://starchart.cc/SunnyEmbrace/DnfHelper-Python.svg)](https://starchart.cc/SunnyEmbrace/DnfHelper-Python)
